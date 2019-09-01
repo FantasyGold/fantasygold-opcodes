@@ -1,5 +1,5 @@
 {
-  "name": "fantasygold-opcodes",
+  "name": "@fantasygold/fantasygold-opcodes",
   "version": "0.0.1",
   "description": "The FANTASYGOLD opcodes map",
   "main": "./index.json",
